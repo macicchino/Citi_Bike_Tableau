@@ -1,7 +1,7 @@
 # Citi_Bike_Tableau
 Module 15 Challenge for NYC Citi Bike ride share data. 
 
-
+[link to dashboard](https://public.tableau.com/app/profile/michael.cicchino/viz/CitiBike_Challenge_16747907410450/CitiBikeStory?publish=yes)
 
 ![dev_1](images/1_Checkout_Times.png "Dev 1 Image")
 
