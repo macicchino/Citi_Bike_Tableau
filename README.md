@@ -58,3 +58,9 @@ The image below displays a map of the amount of rides by each hour. Providing in
 
 It's not a suprise of why Tableau has become popular within many industries. It is a great resource for visualizing and telling the story of data after the raw data has been cleaned. 
 
+I would make two recommendations for analysis. 
+  1. We should compare the dataset to another month to see the seasonality of the ridesharing data. In addition pulling in Weather data could be useful to see it's impact on ride volume. 
+  2. We should created another data variable to measure the distance traveled using the Start Station (Latitude and Longitude) and End Station (Latitude and Longitude).  We could then filter the longest rides taken and displayed where the longest city bike trips are on a map. Also we could validate the trip duration with the trip distance variable and calculate rides average speed (by Gender, Customer Type, etc.) 
+
+
+
